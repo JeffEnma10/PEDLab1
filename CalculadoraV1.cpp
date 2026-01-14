@@ -29,6 +29,10 @@ do {
                resultado = num1 + num2;
                cout << "Resultado de la suma: " << resultado << endl;
                break;
+            case 2:
+                 resultado = num1 - num2;
+                 cout << "Resultado de la resta: " << resultado << endl;
+                 break;
              case 5:
                 cout << "Saliendo del programa..." << endl;
                 break;
